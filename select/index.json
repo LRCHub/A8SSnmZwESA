@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Quest",
+  "base_artist": "秋山黄色",
+  "createdAt": "2026-03-10T15:55:51.000094Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Humble Quest",
+      "artist": "Maren Morris",
+      "has_synced": true,
+      "path": "select/01_Humble_Quest_Maren_Morris.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Qu'est-Ce Que L'Amour ?",
+      "artist": "Jean-Michel Jarre",
+      "has_synced": true,
+      "path": "select/02_Qu'est-Ce_Que_L'Amour_Jean-Michel_Jarre.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Purple (A Tribe Called Quest edit)",
+      "artist": "Crustation",
+      "has_synced": false,
+      "path": "select/03_Purple_(A_Tribe_Called_Quest_edit)_Crustation.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Purple (A Tribe Called Quest mix)",
+      "artist": "Crustation",
+      "has_synced": false,
+      "path": "select/04_Purple_(A_Tribe_Called_Quest_mix)_Crustation.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Quest Into the 77th Novel",
+      "artist": "Absu",
+      "has_synced": false,
+      "path": "select/05_A_Quest_Into_the_77th_Novel_Absu.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blackheim's Quest To Bring Back the Stolen Autumn",
+      "artist": "Diabolical Masquerade",
+      "has_synced": true,
+      "path": "select/06_Blackheim's_Quest_To_Bring_Back_the_Stolen_Autumn_Diabolical_Masquerade.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Perennial Quest",
+      "artist": "Death",
+      "has_synced": true,
+      "path": "select/07_Perennial_Quest_Death.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Quest for Blood (Le Vampire)",
+      "artist": "Ancient Rites",
+      "has_synced": true,
+      "path": "select/08_Quest_for_Blood_(Le_Vampire)_Ancient_Rites.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Quest for Fire",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/09_Quest_for_Fire_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Quest for Resistance",
+      "artist": "Heaven Shall Burn",
+      "has_synced": true,
+      "path": "select/10_Quest_for_Resistance_Heaven_Shall_Burn.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Quest",
+      "artist": "Hypocrisy",
+      "has_synced": true,
+      "path": "select/11_The_Quest_Hypocrisy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Warrior's Quest",
+      "artist": "Ensiferum",
+      "has_synced": true,
+      "path": "select/12_Warrior's_Quest_Ensiferum.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In Quest of Sense",
+      "artist": "Diabulus In Musica",
+      "has_synced": true,
+      "path": "select/13_In_Quest_of_Sense_Diabulus_In_Musica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Quest",
+      "artist": "秋山黄色",
+      "has_synced": false,
+      "path": "select/pl_01_Quest_秋山黄色.txt"
+    }
+  ]
+}
